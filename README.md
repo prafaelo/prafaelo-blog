@@ -1,4 +1,4 @@
-prafaelo_blog
+prafaelo-blog
 =============
 
 Teste My blog prafaelo.com
